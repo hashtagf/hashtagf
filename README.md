@@ -40,6 +40,32 @@
 
 <br/>
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashtagf&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<br/>
+
+## 🗂️ Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashtagf&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashtagf&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashtagf&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashtagf&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashtagf&theme=tokyonight&utcOffset=7" />
+</div>
+
+<br/>
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -51,7 +77,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,vue,php,go,html,css,scss,docker,git,vscode,nodejs,ts&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,vue,php,go,cs,html,css,scss,docker,git,vscode,nodejs&theme=dark&perline=6" />
 </p>
 
 <br/>
