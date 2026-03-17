@@ -51,7 +51,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,go,vue,html,css,docker,git,vscode,nodejs,python,cpp&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,vue,php,go,html,css,scss,docker,git,vscode,nodejs,ts&theme=dark&perline=6" />
 </p>
 
 <br/>
