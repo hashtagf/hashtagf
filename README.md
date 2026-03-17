@@ -28,14 +28,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hashtagf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=hashtagf&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hashtagf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=hashtagf&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashtagf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashtagf&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <br/>
